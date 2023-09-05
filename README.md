@@ -1,2 +1,3 @@
 # IBM-Data-Science-Course
-First steps in Github
+Hi guys
+This is my First step in Github
